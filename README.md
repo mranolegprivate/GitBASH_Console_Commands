@@ -269,7 +269,7 @@ echo "Env variable $HOME"
 ```bash
 #!/bin/zsh
 grade=5 
-person="Adam"
+person="AnOleg"
 echo "$person is a good boy, he is in grade $grade"
 ```
 ## Подстановка команд в переменные  
