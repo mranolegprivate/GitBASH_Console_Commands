@@ -76,8 +76,8 @@ head -n3 file_1.json
 
 ```
 {
-	"year":		2022
-	"name": 	"Andrei",
+	"year":		2023
+	"name": 	"AnOleg",
 ```
 
 
@@ -88,7 +88,7 @@ tail -n3 file_1.json
 ```
 ```
 	"active": 	True,
-	"skills":	["Python", "c++", "JS"]
+	"skills":	["Python", "php", "JS", "QA"]
 }
 ```
 
