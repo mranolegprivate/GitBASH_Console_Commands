@@ -26,7 +26,7 @@ vim file_1.json
         "year":         2023,
         "name":         "AnOleg",
         "active":       True,
-        "skills":       ["Python", "php", "JS", "QA"]
+        "skills":       ["Python", "php", "QA", "HTML", "CSS", "JS",]
 }
 ```
 
@@ -88,7 +88,7 @@ tail -n3 file_1.json
 ```
 ```
 	"active": 	True,
-	"skills":	["Python", "php", "JS", "QA"]
+	"skills":	["Python", "php", "QA", "HTML", "CSS", "JS",]
 }
 ```
 
