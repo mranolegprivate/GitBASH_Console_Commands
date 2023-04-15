@@ -23,10 +23,10 @@ vim file_1.json
 
 ```
 {
-        "year":         2022,
-        "name":         "Andrei",
+        "year":         2023,
+        "name":         "AnOleg",
         "active":       True,
-        "skills":       ["Python", "c++", "JS"]
+        "skills":       ["Python", "php", "JS", "QA"]
 }
 ```
 
