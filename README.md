@@ -68,7 +68,7 @@ git config --global core.autocrlf true # включить преобразова
 
 ### Консоль
 
-[Как использовать консоль Bash в Windows, основные команды](https://github.com/cyberspacedk/BASH-Commands).  
+[Как использовать консоль Bash в Windows, основные команды](https://github.com/mranolegprivate/git_cheat/blob/2d21ddf7263e48b14585b903a6e6f705ef553b33/BASH-Commands/README.md).  
 
 
 ### Длинный вывод в консоли: Vim
